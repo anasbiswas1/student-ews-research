@@ -1,7 +1,10 @@
 data/
-results/
+results/models/
+results/processed/
 *.parquet
-*.csv
+*.joblib
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
+!results/figures/
+!results/metrics_summary.csv
