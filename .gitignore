@@ -8,3 +8,6 @@ __pycache__/
 .DS_Store
 !results/figures/
 !results/metrics_summary.csv
+
+results/scientific_revision/processed/
+results/scientific_revision/models/
