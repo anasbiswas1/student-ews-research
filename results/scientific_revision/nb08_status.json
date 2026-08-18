@@ -1,0 +1,10 @@
+{
+  "shap_cached": true,
+  "agreement_rows": 12,
+  "faithfulness_rows": 12,
+  "fpr_axes_rows": 8,
+  "counterfactual_rows": 6,
+  "failonly_rows": 12,
+  "multiplicity_rows": 24,
+  "nb07_imd_consistency_check": "passed (asserted in section 5)"
+}

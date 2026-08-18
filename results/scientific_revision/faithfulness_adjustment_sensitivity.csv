@@ -1,0 +1,29 @@
+cutoff_week,method,setting,gap,n_common_support,bands_used,matched_pairs
+5,raw,none,-0.019021444383157532,,,
+5,risk-band standardisation,4 bins,0.0024732249531150686,186.0,4.0,
+5,risk-band standardisation,5 bins,-0.0030833796932330177,186.0,5.0,
+5,risk-band standardisation,10 bins,-0.022191323440027454,186.0,3.0,
+5,nearest-risk matching,caliper=0.01,-0.009568752026168297,,,81.0
+5,nearest-risk matching,caliper=0.02,-0.010850681579829996,,,83.0
+5,nearest-risk matching,caliper=0.05,-0.010850681579829996,,,83.0
+10,raw,none,0.030094239462968825,,,
+10,risk-band standardisation,4 bins,0.0016710390565186427,189.0,4.0,
+10,risk-band standardisation,5 bins,0.011565090561180644,189.0,5.0,
+10,risk-band standardisation,10 bins,0.04355897263785879,189.0,2.0,
+10,nearest-risk matching,caliper=0.01,0.013380662859420732,,,88.0
+10,nearest-risk matching,caliper=0.02,0.011778865773162128,,,89.0
+10,nearest-risk matching,caliper=0.05,0.011778865773162128,,,89.0
+15,raw,none,0.048477306463462266,,,
+15,risk-band standardisation,4 bins,0.016989362958799093,173.0,4.0,
+15,risk-band standardisation,5 bins,0.007714043449661405,173.0,5.0,
+15,risk-band standardisation,10 bins,-0.003803853328998914,173.0,2.0,
+15,nearest-risk matching,caliper=0.01,0.045571720545549116,,,88.0
+15,nearest-risk matching,caliper=0.02,0.045571720545549116,,,88.0
+15,nearest-risk matching,caliper=0.05,0.045571720545549116,,,88.0
+25,raw,none,0.055604515743273186,,,
+25,risk-band standardisation,4 bins,-0.01813872443565229,175.0,4.0,
+25,risk-band standardisation,5 bins,-0.019080461999059786,175.0,4.0,
+25,risk-band standardisation,10 bins,-0.044994724297539694,175.0,3.0,
+25,nearest-risk matching,caliper=0.01,0.02307225419117656,,,84.0
+25,nearest-risk matching,caliper=0.02,0.02307225419117656,,,84.0
+25,nearest-risk matching,caliper=0.05,0.02307225419117656,,,84.0
