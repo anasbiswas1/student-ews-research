@@ -9,5 +9,6 @@
   "rev_seed_sensitivity.csv": 3,
   "rev_split_sensitivity.csv": 5,
   "rev_subgroup_ece_ci.csv": 6,
-  "rev_transfer_2014J.csv": 1
+  "rev_transfer_2014J.csv": 1,
+  "rev_uci_upgrades.csv": 3
 }
