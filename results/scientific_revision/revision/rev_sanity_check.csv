@@ -1,0 +1,5 @@
+cutoff_week,model,spearman_shap_vs_perm_importance
+5,hgb,0.9731379731379731
+10,hgb,0.9206349206349206
+15,hgb,0.9114774114774115
+25,hgb,0.9584732824427481

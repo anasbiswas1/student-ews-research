@@ -1,0 +1,13 @@
+{
+  "rev_calibrator_interaction.csv": 4,
+  "rev_context_adjusted_fpr.csv": 4,
+  "rev_fpr_B10000.csv": 8,
+  "rev_insertion_curves.csv": 4,
+  "rev_multiplicity_B10k.csv": 24,
+  "rev_random_deletion_baseline.csv": 12,
+  "rev_sanity_check.csv": 4,
+  "rev_seed_sensitivity.csv": 3,
+  "rev_split_sensitivity.csv": 5,
+  "rev_subgroup_ece_ci.csv": 6,
+  "rev_transfer_2014J.csv": 1
+}
